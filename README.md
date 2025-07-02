@@ -23,7 +23,8 @@ The Vindra Store wants to create an annual sales report for 2022 , So that , the
 - Relation between age and gender based on number of orders ?
 - Highest selling category ?
 
--Dashboard Interaction:[dashboard image.png]
+-Dashboard Interaction [View Dashboard](https://github.com/Abhijeet-Raj-Chaurasiya/VINDRA-STORE-ANNUAL-REPORT-2022/blob/main/dashboard%20image.png)
+
 ![dashboard image](https://github.com/user-attachments/assets/df727025-25e2-4d0c-93b3-dbcb05190fe2)
 
 # Process 
