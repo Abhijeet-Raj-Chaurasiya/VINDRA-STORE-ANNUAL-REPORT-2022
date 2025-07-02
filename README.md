@@ -8,7 +8,7 @@ The Vindra Store wants to create an annual sales report for 2022 , So that , the
 
 # Dataset used 
 <br>
-![](https://github.com/Abhijeet-Raj-Chaurasiya/VINDRA-STORE-ANNUAL-REPORT-2022/blob/main/images/dashboard.png?raw=true)
+![Book1.xlsx]()
 
 
 # Questions
